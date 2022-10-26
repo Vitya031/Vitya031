@@ -1,5 +1,3 @@
-### Hi there 👋
-
 # :raising_hand_man: Welcome ![Visitors](https://visitor-badge.glitch.me/badge?page_id=Vitya031) 
 
 I believe that 99.73% of a computer's errors are within half a meter of it. 
