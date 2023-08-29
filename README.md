@@ -6,7 +6,7 @@ Therefore, process automation and continuous development are very important to m
 
 ## 😄 About me 
 
-✌️ My name is Victor, I am 22 years old. I have been doing programming for about 2 years, trying out different technologies. I have not yet been engaged in industrial development, but I am completely ready for this stage.
+✌️ My name is Victor, I am 23 years old. I have been doing programming for about 2 years, trying out different technologies. I have not yet been engaged in industrial development, but I am completely ready for this stage.
 
 🎓I have experience in (...waiting...)
 
